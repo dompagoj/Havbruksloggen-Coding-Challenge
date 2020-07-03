@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/DAL/DAL.csproj": {}
+  },
+  "projects": {
+    "/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/BL/BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/BL/BL.csproj",
+        "projectName": "BL",
+        "projectPath": "/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/BL/BL.csproj",
+        "packagesPath": "/home/dompa/.nuget/packages/",
+        "outputPath": "/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/BL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dompa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/DAL/DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/DAL/DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/DAL/DAL.csproj",
+        "packagesPath": "/home/dompa/.nuget/packages/",
+        "outputPath": "/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/DAL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dompa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/BL/BL.csproj": {
+                "projectPath": "/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/BL/BL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

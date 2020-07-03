@@ -1,0 +1,9 @@
+/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/BL/bin/Debug/netcoreapp3.1/BL.deps.json
+/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/BL/bin/Debug/netcoreapp3.1/BL.dll
+/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/BL/bin/Debug/netcoreapp3.1/BL.pdb
+/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/BL/obj/Debug/netcoreapp3.1/BL.csprojAssemblyReference.cache
+/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/BL/obj/Debug/netcoreapp3.1/BL.AssemblyInfoInputs.cache
+/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/BL/obj/Debug/netcoreapp3.1/BL.AssemblyInfo.cs
+/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/BL/obj/Debug/netcoreapp3.1/BL.csproj.CoreCompileInputs.cache
+/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/BL/obj/Debug/netcoreapp3.1/BL.dll
+/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/BL/obj/Debug/netcoreapp3.1/BL.pdb

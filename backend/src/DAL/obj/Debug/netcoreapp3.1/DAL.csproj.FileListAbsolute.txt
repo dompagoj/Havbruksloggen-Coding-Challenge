@@ -1,0 +1,15 @@
+/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/DAL/bin/Debug/netcoreapp3.1/DAL.deps.json
+/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/DAL/bin/Debug/netcoreapp3.1/DAL.runtimeconfig.json
+/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/DAL/bin/Debug/netcoreapp3.1/DAL.runtimeconfig.dev.json
+/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/DAL/bin/Debug/netcoreapp3.1/DAL.dll
+/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/DAL/bin/Debug/netcoreapp3.1/DAL.pdb
+/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/DAL/bin/Debug/netcoreapp3.1/BL.dll
+/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/DAL/bin/Debug/netcoreapp3.1/BL.pdb
+/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/DAL/obj/Debug/netcoreapp3.1/DAL.csprojAssemblyReference.cache
+/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/DAL/obj/Debug/netcoreapp3.1/DAL.AssemblyInfoInputs.cache
+/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/DAL/obj/Debug/netcoreapp3.1/DAL.AssemblyInfo.cs
+/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/DAL/obj/Debug/netcoreapp3.1/DAL.csproj.CoreCompileInputs.cache
+/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/DAL/obj/Debug/netcoreapp3.1/DAL.csproj.CopyComplete
+/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/DAL/obj/Debug/netcoreapp3.1/DAL.dll
+/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/DAL/obj/Debug/netcoreapp3.1/DAL.pdb
+/home/dompa/dev/Havbruksloggen-Coding-Challenge/backend/src/DAL/obj/Debug/netcoreapp3.1/DAL.genruntimeconfig.cache

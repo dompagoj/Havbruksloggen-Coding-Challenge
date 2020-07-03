@@ -1,0 +1,17 @@
+.boat-card {
+  min-width: 450px;
+}
+
+.boat-card-hover:hover {
+  cursor: pointer !important;
+  transform: scale(1.05);
+  transition: 0.25s;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.pointer {
+  cursor: pointer;
+}
